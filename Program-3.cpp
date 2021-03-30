@@ -10,7 +10,7 @@ int main()
 {    
     int number;
     std::cout << "Enter an integer: ";
-    std::cin >> ;//fill the missing statement
-    std::cout<< ;//fill the missing statement
+    std::cin >>  number;
+    std::cout<<  number;
     return 0;
 }
