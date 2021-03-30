@@ -4,13 +4,13 @@
 //Output: 18.7
 
 #include <iostream>
-//using namespace std;
+using namespace std;//using namespace std;
 int main() 
 {
     double a, b, p;
-    //cout << "Enter two Numbers:";
-    //cin >> a >> b;
-    //p = a*b;
-    //cout << p;
+    cout<<"enter two numbers:";//cout << "Enter two Numbers:";
+    cin>>a>>b;//cin >> a >> b;
+    p=a*b;//p = a*b;
+    cout<<p;//cout << p;
     return 0;
 }
